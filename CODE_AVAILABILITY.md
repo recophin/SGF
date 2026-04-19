@@ -1,33 +1,21 @@
 # Code Availability
 
-## Manuscript-ready text for circulation stage
+## Manuscript-ready text
 
 Name of the code/library: Stratigraphic Graphic Fitting (SGF)  
 Contact: zblu@foxmail.com  
-Hardware requirements: Standard personal computer capable of running MATLAB  
+Hardware requirements: Standard personal computer capable of running a 64-bit Windows environment  
 Program language: MATLAB  
-Software required: MATLAB Runtime or MATLAB (exact release to be specified for the published build)  
-Program size: To be updated after the release package is finalized  
-During the manuscript circulation stage, the SGF repository is maintained privately and can be shared with editors, reviewers, or collaborators upon request. A public release of the source codes, installer packages, and demo files will be made at: `https://github.com/recophin/SGF`
+Software required: No separate MATLAB installation is required for the compiled installer; the web installer will download and install the required MATLAB Runtime automatically.  
+Program size: Current public pre-release assets include an 8.07 MB web installer and a 9.44 MB demo package.  
+The source codes, installer packages, and demo files are available for downloading at: `https://github.com/recophin/SGF`
 
-## Manuscript-ready text for public release
+## Suggested short form
 
-Name of the code/library: Stratigraphic Graphic Fitting (SGF)  
+Name of the code/library: Stratigraphic  
 Contact: zblu@foxmail.com  
-Hardware requirements: Standard personal computer capable of running MATLAB  
+Hardware requirements: Standard 64-bit Windows PC  
 Program language: MATLAB  
-Software required: MATLAB Runtime or MATLAB (exact release to be specified for the published build)  
-Program size: To be updated after the release package is finalized  
-The source codes, installer packages, and demo files are available at: `https://github.com/recophin/SGF`
-
-## Suggested repository naming
-
-- Repository name: `SGF`
-- Alternative: `stratigraphic-graphic-fitting`
-
-## Before publication
-
-Please update before publication:
-
-- the software/runtime line with the exact MATLAB or MATLAB Runtime version
-- the program size line with the packaged installer size
+Software required: MATLAB Runtime (installed automatically by the web installer)  
+Program size: Web installer 8.07 MB; demo package 9.44 MB  
+The source codes are available for downloading at the link: `https://github.com/recophin/SGF`

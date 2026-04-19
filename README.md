@@ -2,6 +2,8 @@
 
 Repository for the SGF installer packages, demo datasets, and user guide.
 
+This is a public repository under active development. The current installer is distributed as a GitHub pre-release build.
+
 ## Contents
 
 - `AC-demo.xlsx`: example age-constraint table
