@@ -35,4 +35,4 @@ Email: zblu@foxmail.com
 
 ## Citation / Code Availability
 
-See [CODE_AVAILABILITY.md](D:/研究工作/年龄模型/写作/SGF%2020260109%20with%20demo/CODE_AVAILABILITY.md) for manuscript-ready wording.
+See [CODE_AVAILABILITY.md](CODE_AVAILABILITY.md) for manuscript-ready wording.

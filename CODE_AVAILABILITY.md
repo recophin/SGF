@@ -8,7 +8,7 @@ Hardware requirements: Standard personal computer capable of running MATLAB
 Program language: MATLAB  
 Software required: MATLAB Runtime or MATLAB (exact release to be specified for the published build)  
 Program size: To be updated after the release package is finalized  
-The source codes, installer packages, and demo files are available at: `https://github.com/<ACCOUNT>/<REPOSITORY>`
+The source codes, installer packages, and demo files are available at: `https://github.com/recophin/SGF`
 
 ## Suggested repository naming
 
@@ -17,9 +17,7 @@ The source codes, installer packages, and demo files are available at: `https://
 
 ## Before publication
 
-Please replace:
+Please update before publication:
 
-- `<ACCOUNT>` with your GitHub username or organization
-- `<REPOSITORY>` with the final repository name
 - the software/runtime line with the exact MATLAB or MATLAB Runtime version
 - the program size line with the packaged installer size
