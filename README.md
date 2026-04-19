@@ -2,7 +2,7 @@
 
 Repository for the STRATIGIRAFFIC installer packages, demo datasets, and user guide.
 
-This is a public repository under active development. The current installer is distributed as a GitHub pre-release build.
+This is a public repository under active development. The latest installer is distributed as the GitHub pre-release build dated 2026-03-24.
 
 ## Contents
 
