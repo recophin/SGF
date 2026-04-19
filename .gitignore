@@ -1,0 +1,7 @@
+*.asv
+*.autosave
+*.bak
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini

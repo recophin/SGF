@@ -1,0 +1,25 @@
+# Code Availability
+
+## Manuscript-ready text
+
+Name of the code/library: Stratigraphic Graphic Fitting (SGF)  
+Contact: zblu@foxmail.com  
+Hardware requirements: Standard personal computer capable of running MATLAB  
+Program language: MATLAB  
+Software required: MATLAB Runtime or MATLAB (exact release to be specified for the published build)  
+Program size: To be updated after the release package is finalized  
+The source codes, installer packages, and demo files are available at: `https://github.com/<ACCOUNT>/<REPOSITORY>`
+
+## Suggested repository naming
+
+- Repository name: `SGF`
+- Alternative: `stratigraphic-graphic-fitting`
+
+## Before publication
+
+Please replace:
+
+- `<ACCOUNT>` with your GitHub username or organization
+- `<REPOSITORY>` with the final repository name
+- the software/runtime line with the exact MATLAB or MATLAB Runtime version
+- the program size line with the packaged installer size
