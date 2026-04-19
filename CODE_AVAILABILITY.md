@@ -2,8 +2,8 @@
 
 ## Manuscript-ready text
 
-Name of the code/library: Stratigraphic Graphic Fitting (SGF)  
-Contact: zblu@foxmail.com  
+Name of the code/library: STRATIGIRAFFIC (SGF)  
+Contact: zb_lu@foxmail.com  
 Hardware requirements: Standard personal computer capable of running a 64-bit Windows environment  
 Program language: MATLAB  
 Software required: No separate MATLAB installation is required for the compiled installer; the web installer will download and install the required MATLAB Runtime automatically.  
@@ -12,8 +12,8 @@ The source codes, installer packages, and demo files are available for downloadi
 
 ## Suggested short form
 
-Name of the code/library: Stratigraphic  
-Contact: zblu@foxmail.com  
+Name of the code/library: STRATIGIRAFFIC  
+Contact: zb_lu@foxmail.com  
 Hardware requirements: Standard 64-bit Windows PC  
 Program language: MATLAB  
 Software required: MATLAB Runtime (installed automatically by the web installer)  
