@@ -1,6 +1,6 @@
-# Stratigraphic Graphic Fitting (SGF)
+# STRATIGIRAFFIC (SGF)
 
-Repository for the SGF installer packages, demo datasets, and user guide.
+Repository for the STRATIGIRAFFIC installer packages, demo datasets, and user guide.
 
 This is a public repository under active development. The current installer is distributed as a GitHub pre-release build.
 
@@ -33,7 +33,7 @@ For future updates, it is recommended to keep:
 ## Contact
 
 Zhengbo Lu  
-Email: zblu@foxmail.com
+Email: zb_lu@foxmail.com
 
 ## Citation / Code Availability
 
